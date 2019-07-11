@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 111local11合并到master
+=======
+1111111
+111local11合并到master
+version1
+>>>>>>> master
